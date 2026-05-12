@@ -61,7 +61,7 @@ Historical and forecast weather is automatically fetched from the [Open-Meteo AP
 
 ## Getting Started
 
-**Prerequisites:** Node.js 18+
+**Prerequisites:** 
 
 ```bash
 # Install dependencies
